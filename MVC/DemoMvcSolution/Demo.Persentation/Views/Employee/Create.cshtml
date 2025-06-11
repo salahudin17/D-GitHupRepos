@@ -1,0 +1,35 @@
+﻿ @model EmployeeViewModel
+
+@{
+    ViewData["Title"] = "Create";
+}
+
+<h1>Create New Employee</h1>
+<br />
+@if (!ViewData.ModelState.IsValid)
+{
+    <div class="alert alert-danger">
+        <ul>
+            @foreach (var error in ViewData.ModelState.Values.SelectMany(v => v.Errors))
+            {
+                <li>@error.ErrorMessage</li>
+            }
+        </ul>
+    </div>
+}
+<form asp-action="Create" asp-controller="Employee" method="post">
+    @Html.ValidationSummary(true, "", new { @class = "text-danger" })
+
+    <partial name="PartialViews/_CreateEditView" model="Model" />
+
+    <div>
+        <input type="submit" value="Submit" class="btn btn-primary" />
+        <a asp-action="Index" class="btn btn-light">BackToList</a>
+    </div>
+</form>
+
+@section ValidationScriptsSection
+{
+    <partial name="_ValidationScriptsPartial" />
+}
+

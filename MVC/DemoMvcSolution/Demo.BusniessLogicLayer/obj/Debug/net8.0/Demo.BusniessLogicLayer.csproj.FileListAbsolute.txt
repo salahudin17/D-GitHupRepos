@@ -1,0 +1,15 @@
+D:\Coding\MVC\DemoMvcSolution\Demo.BusniessLogicLayer\bin\Debug\net8.0\Demo.BusniessLogicLayer.deps.json
+D:\Coding\MVC\DemoMvcSolution\Demo.BusniessLogicLayer\bin\Debug\net8.0\Demo.BusniessLogicLayer.dll
+D:\Coding\MVC\DemoMvcSolution\Demo.BusniessLogicLayer\bin\Debug\net8.0\Demo.BusniessLogicLayer.pdb
+D:\Coding\MVC\DemoMvcSolution\Demo.BusniessLogicLayer\bin\Debug\net8.0\Demo.DataAccessLayer.dll
+D:\Coding\MVC\DemoMvcSolution\Demo.BusniessLogicLayer\bin\Debug\net8.0\Demo.DataAccessLayer.pdb
+D:\Coding\MVC\DemoMvcSolution\Demo.BusniessLogicLayer\obj\Debug\net8.0\Demo.BusniessLogicLayer.csproj.AssemblyReference.cache
+D:\Coding\MVC\DemoMvcSolution\Demo.BusniessLogicLayer\obj\Debug\net8.0\Demo.BusniessLogicLayer.GeneratedMSBuildEditorConfig.editorconfig
+D:\Coding\MVC\DemoMvcSolution\Demo.BusniessLogicLayer\obj\Debug\net8.0\Demo.BusniessLogicLayer.AssemblyInfoInputs.cache
+D:\Coding\MVC\DemoMvcSolution\Demo.BusniessLogicLayer\obj\Debug\net8.0\Demo.BusniessLogicLayer.AssemblyInfo.cs
+D:\Coding\MVC\DemoMvcSolution\Demo.BusniessLogicLayer\obj\Debug\net8.0\Demo.BusniessLogicLayer.csproj.CoreCompileInputs.cache
+D:\Coding\MVC\DemoMvcSolution\Demo.BusniessLogicLayer\obj\Debug\net8.0\Demo.Bus.B11E5648.Up2Date
+D:\Coding\MVC\DemoMvcSolution\Demo.BusniessLogicLayer\obj\Debug\net8.0\Demo.BusniessLogicLayer.dll
+D:\Coding\MVC\DemoMvcSolution\Demo.BusniessLogicLayer\obj\Debug\net8.0\refint\Demo.BusniessLogicLayer.dll
+D:\Coding\MVC\DemoMvcSolution\Demo.BusniessLogicLayer\obj\Debug\net8.0\Demo.BusniessLogicLayer.pdb
+D:\Coding\MVC\DemoMvcSolution\Demo.BusniessLogicLayer\obj\Debug\net8.0\ref\Demo.BusniessLogicLayer.dll

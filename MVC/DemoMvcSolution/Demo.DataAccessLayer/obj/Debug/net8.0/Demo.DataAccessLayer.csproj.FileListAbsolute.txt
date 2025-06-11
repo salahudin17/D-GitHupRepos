@@ -1,0 +1,12 @@
+D:\Coding\MVC\DemoMvcSolution\Demo.DataAccessLayer\bin\Debug\net8.0\Demo.DataAccessLayer.deps.json
+D:\Coding\MVC\DemoMvcSolution\Demo.DataAccessLayer\bin\Debug\net8.0\Demo.DataAccessLayer.dll
+D:\Coding\MVC\DemoMvcSolution\Demo.DataAccessLayer\bin\Debug\net8.0\Demo.DataAccessLayer.pdb
+D:\Coding\MVC\DemoMvcSolution\Demo.DataAccessLayer\obj\Debug\net8.0\Demo.DataAccessLayer.csproj.AssemblyReference.cache
+D:\Coding\MVC\DemoMvcSolution\Demo.DataAccessLayer\obj\Debug\net8.0\Demo.DataAccessLayer.GeneratedMSBuildEditorConfig.editorconfig
+D:\Coding\MVC\DemoMvcSolution\Demo.DataAccessLayer\obj\Debug\net8.0\Demo.DataAccessLayer.AssemblyInfoInputs.cache
+D:\Coding\MVC\DemoMvcSolution\Demo.DataAccessLayer\obj\Debug\net8.0\Demo.DataAccessLayer.AssemblyInfo.cs
+D:\Coding\MVC\DemoMvcSolution\Demo.DataAccessLayer\obj\Debug\net8.0\Demo.DataAccessLayer.csproj.CoreCompileInputs.cache
+D:\Coding\MVC\DemoMvcSolution\Demo.DataAccessLayer\obj\Debug\net8.0\Demo.DataAccessLayer.dll
+D:\Coding\MVC\DemoMvcSolution\Demo.DataAccessLayer\obj\Debug\net8.0\refint\Demo.DataAccessLayer.dll
+D:\Coding\MVC\DemoMvcSolution\Demo.DataAccessLayer\obj\Debug\net8.0\Demo.DataAccessLayer.pdb
+D:\Coding\MVC\DemoMvcSolution\Demo.DataAccessLayer\obj\Debug\net8.0\ref\Demo.DataAccessLayer.dll
